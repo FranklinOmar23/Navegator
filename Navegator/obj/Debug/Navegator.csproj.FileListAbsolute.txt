@@ -1,0 +1,11 @@
+C:\Users\frank\source\repos\Navegator\Navegator\bin\Debug\Navegator.exe.config
+C:\Users\frank\source\repos\Navegator\Navegator\bin\Debug\Navegator.exe
+C:\Users\frank\source\repos\Navegator\Navegator\bin\Debug\Navegator.pdb
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.csproj.AssemblyReference.cache
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.Form1.resources
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.Properties.Resources.resources
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.csproj.GenerateResource.cache
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.csproj.CoreCompileInputs.cache
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.exe
+C:\Users\frank\source\repos\Navegator\Navegator\obj\Debug\Navegator.pdb
